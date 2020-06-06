@@ -1,3 +1,9 @@
+
+/*
+    Use of infix functions improves readability
+    Only application for extension and member function with single parameter
+ */
+
 fun main(args: Array<String>) {
     val output = "Hello"
     output.shouldEquals("Hello")
