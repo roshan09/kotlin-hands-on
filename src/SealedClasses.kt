@@ -7,6 +7,8 @@ import Result.Error
     Problems with enum :
         1) Enum classes only allow one instance of each type
         2) Enum classes can't hold different info on different classes
+
+    Enum classes should be nested or should be in the same file
  */
 
 fun main() {
